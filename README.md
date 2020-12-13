@@ -10,6 +10,13 @@
 
 ## Contexto
 
+O cliente gerencia sua loja sozinho
+Precisa de um software para catalogar seus produtos
+Criar
+Atualizar nome, descrição, preço, quantidade
+Deletar
+Listar
+
 ## Sua missão, caso deseje aceitá-la é:
 
  Criar uma API 
@@ -33,9 +40,9 @@ deleted_at | datetime
 Campo   | Tipo
 --------- | ------
 id | id
-from | str
-to | str
-body | str
+from | str (64)
+to | str (64)
+body | str 
 
 ## O que você não pode esquecer
 
@@ -44,13 +51,22 @@ body | str
 * Registrar log de erros (console, arquivo, etc)
 * Persistir informações em um banco de dados (relacional ou não relacional)
 * Criar README com as instruções sobre como executar e testar o projeto
+* Criar collection no Postman com as requisições
 
 ## O que será um diferencial
 
 * Criar documentação (swagger, redoc, etc)
 * Registrar log de requisições (console, arquivo, etc)
-* Criar endpoint para healthcheck
+* Disponibilizar endpoint para healthcheck
 * Criar Dockerfile
+
+## O que você deve saber responder
+
+* A API está funcionando?
+* Ocorreu algum erro recentemente?
+* Como eu identifico qual foi o erro?
+* Qual é o tempo médio de respota?
+* Qual foi o RPM na última hora?
 
 ## O que será avaliado
 
