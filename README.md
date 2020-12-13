@@ -10,7 +10,7 @@
 
 ## Contexto
 
-Uma boa parte dos pequenos negócios de varejo não fazem a gestão do próprio catálogo de produtos através de um software. Isto acaba gerando uma enorme desorganização operacional e a consequência disso pode ser o fechamento da empresa. 
+Boa parte dos pequenos varejistas não utilizam qualquer software para fazer a gestão do próprio catálogo de produtos. Isto acaba gerando uma enorme desorganização operacional e a consequência disso pode ser o fechamento da empresa. 
 
 A necessidade é utilizar um software que permita cadastrar, atualizar, deletar e listar os produtos.
 
