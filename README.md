@@ -70,11 +70,11 @@ body | str
 
 #### Como você planejou
 
-* Organização das tarefas - 
-* Tamanho das tarefas -
-* Estimativa - 
-* Esforço -
-* Categorização das tarefas (codificação, teste, etc)
+* Organização das tarefas - ```A qualidade do planejamento será refletido na execução. Entenda o problema, crie as tarefas e estime com prazos realistas```
+* Tamanho das tarefas - ```Evite criar tarefas com estimativas enormes```
+* Estimativa - ```Registre qual é a estimativa em horas para finalizar as tarefas```
+* Esforço - ```Registre quantas horas você precisou para finalizar uma tarefa```
+* Categorização das tarefas (codificação, teste, estudo, etc) - ```Indique qual é o tipo de tarefa e saberemos onde você aplicou mais esforço```
 
 #### Como você desenvolveu
 
