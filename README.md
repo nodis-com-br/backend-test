@@ -1,25 +1,22 @@
-# Desafio {nome} - Python Engineer
+# Desafio {nome} - Python Developer
 
 ## Instruções
-* Criar um board público no [Trello](https://trello.com/) e organizar as tarefas necessárias para finalizar o desafio.
-* Enviar link do [Trello](https://trello.com/) e a estimativa de conclusão para {email}
-* Utilizar Python :snake: para construir o desafio. Sinta-se a vontade para escolher o framework, libs, banco de dados, etc.
-* Versionar o código em um repositório público (Github)
-* Enviar link do repositório para {email} quando terminar. :trophy:
-* Caso seu projeto seja aprovado, você terá que apresentá-lo para um de nossos especialistas, ok?
+* Crie um board público no [Trello](https://trello.com/) e organize as tarefas necessárias para finalizar o desafio.
+* Envie o link do [Trello](https://trello.com/) e a estimativa de conclusão para {email} com o assunto ""
+* Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
+* Versione o código em um repositório público aqui no Github.
+* Envie o link do repositório para {email} com o assunto "Python Developer - {SEU_NOME}". :trophy:
+* Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo.
 
 ## Contexto
 
-O cliente gerencia sua loja sozinho
-Precisa de um software para catalogar seus produtos
-Criar
-Atualizar nome, descrição, preço, quantidade
-Deletar
-Listar
+Uma boa parte dos pequenos negócios de varejo não fazem a gestão do próprio catálogo de produtos através de um software. Isto acaba gerando uma enorme desorganização operacional e a consequência disso pode ser o fechamento da empresa. 
+
+A necessidade é utilizar um software que permita cadastrar, atualizar, deletar e listar os produtos.
 
 ## Sua missão, caso deseje aceitá-la é:
 
- Criar uma API 
+Criar uma API para gestão de produtos. 
 
 #### Product
 
@@ -28,6 +25,7 @@ Campo   | Tipo
 id | id
 name | str (128)
 description | str (1024)
+images | str[]
 price | int 
 quantity | int
 status | enum
@@ -49,14 +47,14 @@ body | str
 * Criar teste unitários
 * Validar requisições
 * Registrar log de erros (console, arquivo, etc)
-* Persistir informações em um banco de dados (relacional ou não relacional)
+* Persistir informações em um banco de dados
 * Criar README com as instruções sobre como executar e testar o projeto
-* Criar collection no Postman com as requisições
+* Criar collection no Postman com todas as requisições disponíveis
 
 ## O que será um diferencial
 
-* Criar documentação (swagger, redoc, etc)
-* Registrar log de requisições (console, arquivo, etc)
+* Criar documentação (Swagger, ReDoc, etc)
+* Registrar log de requisições e respostas (console, arquivo, etc)
 * Disponibilizar endpoint para healthcheck
 * Criar Dockerfile
 
@@ -67,22 +65,25 @@ body | str
 * Como eu identifico qual foi o erro?
 * Qual é o tempo médio de respota?
 * Qual foi o RPM na última hora?
+* 
 
 ## O que será avaliado
 
 #### Como você planejou
 
-* Organização
-* Tamanho das tarefas
+* Organização das tarefas - 
+* Tamanho das tarefas -
+* Estimativa - 
+* Esforço -
 * Categorização das tarefas (codificação, teste, etc)
 
 #### Como você desenvolveu
 
 * Simplicidade e testabilidade do código - O código deve ser fácil de entender e testar
-* Duplicação de código - Reaproveite o máximo de código para evitar duplicações. >3% = RUIM, <3% = BOM
+* Duplicação de código - Reaproveite o máximo de código para evitar duplicações
 * Vulnerabilidades - Evite deixar informações sensíveis no código (senhas, conn strings, etc)
-* Cobertura de testes - <30% = RUIM, 30 a 69% = RAZOÁVEL, 70 a 89% = BOM, >=90% = EXCELENTE
-* Bugs - >1 = RUIM, 0 = BOM
+* Cobertura de testes - Tente superar 70% de cobertura
+* Bugs - Atenção aos detalhes para não permitir erros inesperados
 
 ## Materiais úteis
 
