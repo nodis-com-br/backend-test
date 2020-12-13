@@ -82,7 +82,7 @@ body | str
 * Simplicidade e testabilidade do código - O código deve ser fácil de entender e testar
 * Duplicação de código - Reaproveite o máximo de código para evitar duplicações
 * Vulnerabilidades - Evite deixar informações sensíveis no código (senhas, conn strings, etc)
-* Cobertura de testes - Tente superar 70% de cobertura
+* Cobertura de testes - ```Tente superar 70% de cobertura```
 * Bugs - Atenção aos detalhes para não permitir erros inesperados
 
 ## Materiais úteis
