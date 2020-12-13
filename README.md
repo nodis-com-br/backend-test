@@ -2,10 +2,10 @@
 
 ## Instruções
 * Crie um board público no [Trello](https://trello.com/) e organize as tarefas necessárias para finalizar o desafio.
-* Envie o link do [Trello](https://trello.com/) e a estimativa de conclusão para *{email}* com o assunto ```teste```
+* Envie o link do [Trello](https://trello.com/) e a estimativa de conclusão para **{email}** com o assunto ```teste```
 * Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
 * Versione o código em um repositório público aqui no Github.
-* Envie o link do repositório para *{email}* com o assunto ```Python Developer - {SEU_NOME}```. :trophy:
+* Envie o link do repositório para **{email}** com o assunto ```Python Developer - {SEU_NOME}```. :trophy:
 * Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo.
 
 ## Contexto
@@ -65,7 +65,6 @@ body | str
 * Como eu identifico qual foi o erro?
 * Qual é o tempo médio de respota?
 * Qual foi o RPM na última hora?
-* 
 
 ## O que será avaliado
 
@@ -79,11 +78,11 @@ body | str
 
 #### Como você desenvolveu
 
-* Simplicidade e testabilidade do código - O código deve ser fácil de entender e testar
-* Duplicação de código - Reaproveite o máximo de código para evitar duplicações
-* Vulnerabilidades - Evite deixar informações sensíveis no código (senhas, conn strings, etc)
+* Simplicidade e testabilidade do código - ```O código deve ser fácil de entender e testar```
+* Duplicação de código - ```Reaproveite o máximo de código para evitar duplicações```
+* Vulnerabilidades - ```Evite deixar informações sensíveis no código (senhas, conn strings, etc)```
 * Cobertura de testes - ```Tente superar 70% de cobertura```
-* Bugs - Atenção aos detalhes para não permitir erros inesperados
+* Bugs - ```Atenção aos detalhes para não permitir erros inesperados```
 
 ## Materiais úteis
 
