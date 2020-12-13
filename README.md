@@ -2,10 +2,10 @@
 
 ## Instruções
 * Crie um board público no [Trello](https://trello.com/) e organize as tarefas necessárias para finalizar o desafio.
-* Envie o link do [Trello](https://trello.com/) e a estimativa de conclusão para {email} com o assunto ""
+* Envie o link do [Trello](https://trello.com/) e a estimativa de conclusão para *{email}* com o assunto ```teste```
 * Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
 * Versione o código em um repositório público aqui no Github.
-* Envie o link do repositório para {email} com o assunto "Python Developer - {SEU_NOME}". :trophy:
+* Envie o link do repositório para *{email}* com o assunto ```Python Developer - {SEU_NOME}```. :trophy:
 * Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo.
 
 ## Contexto
