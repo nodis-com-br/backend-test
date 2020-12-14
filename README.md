@@ -49,7 +49,7 @@ body | str
 * Registrar log de erros (console, arquivo, etc)
 * Persistir informações em um banco de dados
 * Criar README com as instruções sobre como executar e testar o projeto
-* Criar collection no Postman com todas as requisições disponíveis
+* Incluir na raiz do projeto uma collection do Postman com todas as requisições disponíveis
 
 ## O que será um diferencial
 
