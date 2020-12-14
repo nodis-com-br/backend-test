@@ -58,14 +58,6 @@ body | str
 * Disponibilizar endpoint para healthcheck
 * Criar Dockerfile
 
-## O que você deve saber responder
-
-* A API está funcionando?
-* Ocorreu algum erro recentemente?
-* Como eu identifico qual foi o erro?
-* Qual é o tempo médio de respota?
-* Qual foi o RPM na última hora?
-
 ## O que será avaliado
 
 #### Como você planejou
