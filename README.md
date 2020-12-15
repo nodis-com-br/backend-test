@@ -32,7 +32,7 @@ Campo   | Tipo
 --------- | ------
 id | id
 name | str (128)
-gtin13 | str (13)
+[gtin13](https://www.gs1br.org/codigos-e-padroes/chaves-de-identificacao/gtin) | str (13)
 description | str (1024)
 images | str[]
 price | int 
@@ -53,7 +53,7 @@ body | str
 
 ## Algumas regras
 
-* Não permitir que um produto seja cadastrado com o gtin13 ou nome já existente.
+* Não permitir que um produto seja cadastrado com o [gtin13](https://www.gs1br.org/codigos-e-padroes/chaves-de-identificacao/gtin) ou nome já existente.
 * Não permitir que um produto seja adicionado com o preço menor ou igual a zero.
 * Não permitir que um produto seja adicionado com a quantidade menor ou igual a zero.
 * Não permitir uma redução de preço maior ou igual a 50% do valor atual.
@@ -108,4 +108,4 @@ body | str
 * [IoC e Injeção de Dependência](https://www.youtube.com/watch?v=A_rPxoNO3-c)
 * [Docker Compose: O que é?](https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come)
 
-Encontrou algum material que te ajudou no desafio? [Clique aqui](https://www.stone.com.br) e compartilhe com a gente :pray:
+Encontrou algum material que te ajudou no desafio? [Clique aqui](https://www.stone.com.br) e compartilhe :pray:
