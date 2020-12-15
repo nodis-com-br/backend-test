@@ -61,18 +61,17 @@ body | str
 
 ## O que você não pode esquecer
 
-* Criar teste unitários
-* Utilizar corretamente os verbos http
-* Validar requisições
-* Registrar log de erros (console, arquivo, etc)
-* Persistir informações em um banco de dados
-* Criar README com as instruções sobre como executar e testar o projeto
-* Incluir na raiz do projeto uma collection do Postman com todas as requisições disponíveis
+* **Criar testes unitários:**
+* **Definir corretamente os verbos e rotas:** 
+* **Validar requisições:**
+* **Logar requisições, respostas e erros:** Arquivo, Console..
+* **Persistir informações em um banco de dados:** PostgreSQL, MySQL, MongoDB..
+* **Criar README:** Incluir instruções sobre como executar e testar o projeto
+* **Criar Collection no Postman:** Incluir arquivo na raiz do projeto com o nome ```postman.json```
 
 ## O que será um diferencial
 
-* Criar documentação (Swagger, ReDoc, etc)
-* Registrar log de requisições e respostas (console, arquivo, etc)
+* Criar documentação: (Swagger, ReDoc, etc)
 * Disponibilizar endpoint para healthcheck
 * Criar Dockerfile
 
@@ -84,17 +83,17 @@ body | str
 
 ### Como você planejou
 
-* **Organização das tarefas:** A qualidade do planejamento será refletido na execução. Entenda o problema, crie as tarefas e estime com prazos realistas
+* **Organização:** A qualidade do planejamento será refletido na execução. Entenda o problema, crie as tarefas e estime com prazos realistas
 * **Tamanho das tarefas:** Evite criar tarefas com estimativas enormes
 * **Estimativa:** Registre qual é a estimativa em horas para finalizar as tarefas
 * **Esforço:** Registre quantas horas você precisou para finalizar uma tarefa
-* **Categorização das tarefas:** Indique qual é o tipo de tarefa (codificação, teste, estudo, etc) e saberemos onde você aplicou mais esforço
+* **Categorização:** Indique qual é o tipo de tarefa (codificação, teste, estudo, etc) e saberemos onde você aplicou mais esforço
 
 ### Como você desenvolveu
 
 * **Flexibilidade:** Deve ser fácil incluir novas features, substituir ferramentas..
-* **Testabilidade:** O código deve ser fácil de testar. [Leia mais](https://www.stone.com.br) sobre complexidade ciclomática
-* **Simplicidade:** O código deve ser fácil de entender. [Leia mais](https://www.stone.com.br) sobre complexidade cognitiva
+* **Testabilidade:** O código deve ser fácil de testar. [Leia mais](https://medium.com/php-brasil/complexidade-ciclom%C3%A1tica-454191081681) sobre complexidade ciclomática
+* **Simplicidade:** O código deve ser fácil de entender. [Leia mais](https://artesoftware.com.br/2019/02/10/complexidade-cognitiva/) sobre complexidade cognitiva
 * **Performance:** Evite realizar chamadas desnecessárias ao banco de dados, encontre o benchmark das libs que você escolher..
 * **Duplicação de código:** Reaproveite o máximo de código para evitar duplicações
 * **Vulnerabilidades:** Evite deixar informações sensíveis no código (senhas, conn strings, etc)
