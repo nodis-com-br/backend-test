@@ -2,7 +2,7 @@
 
 Olá, agradecemos o seu interesse em fazer parte desse super time!
 
-O objetivo do desafio é entender o quanto você conhece sobre planejamento, codificação e monitoria. Se quiser saber quais são os valores e responsabilidades do nossos devs [clique aqui](https://github.com/nodis-com-br/bushido)
+O objetivo do desafio é entender o quanto você conhece sobre planejamento, codificação e monitoria. [Clique aqui](https://github.com/nodis-com-br/bushido) para ver quais são os valores e responsabilidades do nossos devs.
 
 Fique à vontade para tentar quantas vezes quiser :smile:
 
