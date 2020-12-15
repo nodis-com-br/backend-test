@@ -82,24 +82,24 @@ body | str
 
 ## O que será avaliado
 
-#### Como você planejou
+### Como você planejou
 
-* Organização das tarefas - *A qualidade do planejamento será refletido na execução. Entenda o problema, crie as tarefas e estime com prazos realistas*
-* Tamanho das tarefas - *Evite criar tarefas com estimativas enormes*
-* Estimativa - *Registre qual é a estimativa em horas para finalizar as tarefas*
-* Esforço - *Registre quantas horas você precisou para finalizar uma tarefa*
-* Categorização das tarefas (codificação, teste, estudo, etc) - *Indique qual é o tipo de tarefa e saberemos onde você aplicou mais esforço*
+* **Organização das tarefas:** A qualidade do planejamento será refletido na execução. Entenda o problema, crie as tarefas e estime com prazos realistas
+* **Tamanho das tarefas:** Evite criar tarefas com estimativas enormes
+* **Estimativa:** Registre qual é a estimativa em horas para finalizar as tarefas
+* **Esforço:** Registre quantas horas você precisou para finalizar uma tarefa
+* **Categorização das tarefas:** Indique qual é o tipo de tarefa (codificação, teste, estudo, etc) e saberemos onde você aplicou mais esforço
 
-#### Como você desenvolveu
+### Como você desenvolveu
 
-* Flexibilidade - *Deve ser fácil incluir novas features, substituir ferramentas..*
-* Testabilidade - *O código deve ser fácil de testar. [Leia mais](https://www.stone.com.br) sobre complexidade ciclomática*
-* Simplicidade - *O código deve ser fácil de entender. [Leia mais](https://www.stone.com.br) sobre complexidade cognitiva*
-* Performance - *Evite realizar chamadas desnecessárias ao banco de dados, encontre o benchmark das libs que você escolher..*
-* Duplicação de código - *Reaproveite o máximo de código para evitar duplicações*
-* Vulnerabilidades - *Evite deixar informações sensíveis no código (senhas, conn strings, etc)*
-* Cobertura de testes - *Tente superar 70% de cobertura*
-* Bugs - *Atenção aos detalhes para não permitir erros inesperados*
+* **Flexibilidade:** Deve ser fácil incluir novas features, substituir ferramentas..
+* **Testabilidade:** O código deve ser fácil de testar. [Leia mais](https://www.stone.com.br) sobre complexidade ciclomática
+* **Simplicidade:** O código deve ser fácil de entender. [Leia mais](https://www.stone.com.br) sobre complexidade cognitiva
+* **Performance:** Evite realizar chamadas desnecessárias ao banco de dados, encontre o benchmark das libs que você escolher..
+* **Duplicação de código:** Reaproveite o máximo de código para evitar duplicações
+* **Vulnerabilidades:** Evite deixar informações sensíveis no código (senhas, conn strings, etc)
+* **Cobertura de testes:** Tente superar 70% de cobertura
+* **Bugs:** Atenção aos detalhes para não permitir erros inesperados
 
 ## Isso vai te ajudar
 
