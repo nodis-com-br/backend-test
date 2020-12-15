@@ -7,11 +7,11 @@ O objetivo do desafio é entender o quanto você conhece sobre planejamento, cod
 Fique à vontade para tentar quantas vezes quiser :muscle:
 
 ## Instruções
-* Crie um board público no [Trello](https://trello.com/) e organize as tarefas necessárias para finalizar o desafio.
-* [Clique aqui](https://www.stone.com.br) para enviar o link do [Trello](https://trello.com/) e a estimativa de conclusão.
+* Crie um repositório aqui no Github para versionar seu código.
+* Crie um projeto do tipo ```Basic Kanban``` e organize as tarefas necessárias para finalizar o desafio.
+* [Clique aqui](https://www.stone.com.br) para enviar o link do repositório e a estimativa de conclusão.
 * Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
-* Versione o código em um repositório público aqui no Github.
-* [Clique aqui](https://www.stone.com.br) para enviar o link do repositório. :trophy:
+* [Clique aqui](https://www.stone.com.br) quando terminar de codificar. :trophy:
 * Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo. #keepcalm
 
 ## Contexto
@@ -61,9 +61,9 @@ body | str
 
 ## O que você não pode esquecer
 
-* **Criar testes unitários:**
-* **Definir corretamente os verbos e rotas:** 
-* **Validar requisições:**
+* **Criar testes unitários.**
+* **Definir corretamente os verbos e rotas da API.** 
+* **Validar requisições:** Tamanho da string, inteiro menor que zero, etc. Retorne respostas claras quando a requisição for inválida.
 * **Logar requisições, respostas e erros:** Arquivo, Console..
 * **Persistir informações em um banco de dados:** PostgreSQL, MySQL, MongoDB..
 * **Criar README:** Incluir instruções sobre como executar e testar o projeto
@@ -71,9 +71,9 @@ body | str
 
 ## O que será um diferencial
 
-* Criar documentação: (Swagger, ReDoc, etc)
-* Disponibilizar endpoint para healthcheck
-* Criar Dockerfile
+* **Criar documentação:** Swagger, ReDoc.. Dê preferência a documentação automática.
+* **Disponibilizar Health Check.**
+* **Criar Dockerfile e Docker Compose.**
 
 ## É faixa preta? (opcional)
 
@@ -93,17 +93,19 @@ body | str
 
 * **Flexibilidade:** Deve ser fácil incluir novas features, substituir ferramentas..
 * **Testabilidade:** O código deve ser fácil de testar. [Leia mais](https://medium.com/php-brasil/complexidade-ciclom%C3%A1tica-454191081681) sobre complexidade ciclomática
+* **Cobertura de testes:** Tente superar 70% de cobertura
 * **Simplicidade:** O código deve ser fácil de entender. [Leia mais](https://artesoftware.com.br/2019/02/10/complexidade-cognitiva/) sobre complexidade cognitiva
 * **Performance:** Evite realizar chamadas desnecessárias ao banco de dados, encontre o benchmark das libs que você escolher..
 * **Duplicação de código:** Reaproveite o máximo de código para evitar duplicações
 * **Vulnerabilidades:** Evite deixar informações sensíveis no código (senhas, conn strings, etc)
-* **Cobertura de testes:** Tente superar 70% de cobertura
 * **Bugs:** Atenção aos detalhes para não permitir erros inesperados
 
 ## Isso vai te ajudar
 
-* [Link1](https://www.stone.com.br)
-* [Link2](https://www.stone.com.br)
-* [Link3](https://www.stone.com.br)
+* [API em Flask](https://lucassimon.com.br/2018/06/serie-api-em-flask---parte-1---introducao-configuracao-e-hello-world/)
+* [Design Patterns](https://github.com/kelvins/design-patterns-python)
+* [Primeiros passsos com testes unitários](http://devfuria.com.br/python/tdd-primeiros-passos-com-testes-unitarios/)
+* [IoC e Injeção de Dependência](https://www.youtube.com/watch?v=A_rPxoNO3-c)
+* [Docker Compose: O que é?](https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come)
 
 Encontrou algum material que te ajudou no desafio? [Clique aqui](https://www.stone.com.br) e compartilhe com a gente :pray:
