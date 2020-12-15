@@ -12,7 +12,7 @@ Fique à vontade para tentar quantas vezes quiser :smile:
 * Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
 * Versione o código em um repositório público aqui no Github.
 * [Clique aqui](https://www.stone.com.br) para enviar o link do repositório. :trophy:
-* Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo.
+* Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo. #keepcalm
 
 ## Contexto
 
@@ -92,13 +92,10 @@ body | str
 
 #### Como você desenvolveu
 
-* Flexibilidade - **
+* Flexibilidade - *Deve ser fácil incluir novas features, substituir ferramentas..*
 * Testabilidade - *O código deve ser fácil de testar. [Leia mais](https://www.stone.com.br) sobre complexidade ciclomática*
 * Simplicidade - *O código deve ser fácil de entender. [Leia mais](https://www.stone.com.br) sobre complexidade cognitiva*
-* Performance - *Evite realizar chamadas desnecessárias ao banco de dados..*
-
-* Simplicidade e testabilidade do código - *O código deve ser fácil de entender e testar*
-
+* Performance - *Evite realizar chamadas desnecessárias ao banco de dados, encontre o benchmark das libs que você escolher..*
 * Duplicação de código - *Reaproveite o máximo de código para evitar duplicações*
 * Vulnerabilidades - *Evite deixar informações sensíveis no código (senhas, conn strings, etc)*
 * Cobertura de testes - *Tente superar 70% de cobertura*
