@@ -106,3 +106,5 @@ body | str
 * [Link1](https://www.stone.com.br)
 * [Link2](https://www.stone.com.br)
 * [Link3](https://www.stone.com.br)
+
+Encontrou algum material diferente que te ajudou no desafio? [Clique aqui](https://www.stone.com.br) e compartilhe com a gente :pray:
