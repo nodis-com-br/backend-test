@@ -7,9 +7,9 @@ O objetivo do desafio é entender o quanto você conhece sobre planejamento, cod
 ## Instruções
 * Crie um repositório aqui no Github para versionar seu código.
 * Crie um projeto do tipo ```Basic Kanban``` e organize as tarefas necessárias para finalizar o desafio.
-* [Clique aqui](https://www.stone.com.br) para enviar o link do repositório e a estimativa de conclusão.
+* [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSczrZ3qw3X4R0D1Ch7qgVWlos7g6ARfnnb8o80q9yIR8UKKpQ/viewform) para enviar o link do repositório e a estimativa de conclusão.
 * Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
-* [Clique aqui](https://www.stone.com.br) quando terminar de codificar. :trophy:
+* [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSc9z1tr3mqxsnEhgtW5wzwX2yLveSMAbx1X_lg5LLw-3199Ew/viewform) quando terminar de codificar. :trophy:
 * Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo. #keepcalm
 
 ## Contexto
@@ -75,7 +75,7 @@ body | str
 
 ## É faixa preta? (opcional)
 
-[Clique aqui](https://www.stone.com.br) e fale um pouco sobre sua experiência com monitoria, performance e outros.
+[Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLScMn9JOKzFlfQw0-uoNc20TNwTRzLEMZxBPMNFcUjq5SzOmwg/viewform) e fale um pouco sobre sua experiência com monitoria, performance e outros.
 
 ## O que será avaliado
 
@@ -106,4 +106,4 @@ body | str
 * [IoC e Injeção de Dependência](https://www.youtube.com/watch?v=A_rPxoNO3-c)
 * [Docker Compose: O que é?](https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come)
 
-Encontrou algum material que te ajudou no desafio? [Clique aqui](https://www.stone.com.br) e compartilhe :pray:
+Encontrou algum material que te ajudou no desafio? [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSf6CXySxRopuPWkntHjb7_x2SIk4TUIBMrfjhqLp5xD0SJi5w/viewform) e compartilhe :pray:
