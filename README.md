@@ -100,10 +100,13 @@ body | str
 
 ## Isso vai te ajudar
 
-* [API em Flask](https://lucassimon.com.br/2018/06/serie-api-em-flask---parte-1---introducao-configuracao-e-hello-world/)
+* [Flask](https://lucassimon.com.br/2018/06/serie-api-em-flask---parte-1---introducao-configuracao-e-hello-world/)
+* [FastAPI] (https://fastapi.tiangolo.com/)
+* [FastAPI Benchmark] (https://fastapi.tiangolo.com/)
 * [Design Patterns](https://github.com/kelvins/design-patterns-python)
 * [Primeiros passsos com testes unitários](http://devfuria.com.br/python/tdd-primeiros-passos-com-testes-unitarios/)
 * [IoC e Injeção de Dependência](https://www.youtube.com/watch?v=A_rPxoNO3-c)
 * [Docker Compose: O que é?](https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come)
+* [Awesome README] (https://github.com/matiassingers/awesome-readme)
 
 Encontrou algum material que te ajudou no desafio? [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSf6CXySxRopuPWkntHjb7_x2SIk4TUIBMrfjhqLp5xD0SJi5w/viewform) e compartilhe :pray:
